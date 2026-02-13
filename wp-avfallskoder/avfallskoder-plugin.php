@@ -3,7 +3,8 @@
  * Plugin Name: Avfallskoder Search (EWC)
  * Description: Sökfunktion för avfallskoder (EWC) med juridiska hänvisningar. Shortcode: [avfallskoder_search]
  * Version: 2.0.1
- * Author: Avfallskoder
+ * Author: Stefan Rydén
+ * Author URI: https://github.com/stefanryden/Avfallskoder
  * License: GPLv2 or later
  */
 
