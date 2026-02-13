@@ -1,0 +1,21 @@
+{
+  "avfallsforordningen": {
+    "kapitel": {
+      "2": "Allmänna hänsynsregler",
+      "6": "Anteckning och rapportering",
+      "15": "Övergripande ansvar"
+    },
+    "förordning": "Avfallsförordningen (2020:614)"
+  },
+  "miljobalken": {
+    "kapitel": {
+      "2": "Allmänna hänsynsregler",
+      "15": "Avfall"
+    },
+    "förordning": "Miljöbalken (1998:808)"
+  },
+  "nfs": {
+    "förordning": "NFS 2020:5",
+    "paragrafer": ["6 kap. 1–5 §§", "6 kap. 11 §", "7 kap. 3 §"]
+  }
+}

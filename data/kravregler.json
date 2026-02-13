@@ -1,0 +1,11 @@
+{
+  "farligt_avfall": {
+    "anteckningsskyldighet": true,
+    "rapportering_avfallsregister": true,
+    "transportdokument": true,
+    "lagrum": {
+      "förordning": "NFS 2020:5",
+      "paragrafer": ["6 kap. 1–5 §§", "6 kap. 11 §", "7 kap. 3 §"]
+    }
+  }
+}
